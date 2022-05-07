@@ -10,6 +10,8 @@ tags: [bible, africa, technology]
 
 I've been sending this to some missions agencies working in Africa in hopes that this new and free service will be taken advantage of.  If you know anyone involved in missions in Africa please pass this information along to them.
 
+<!--truncate-->
+
 >To Whom It May Concern,
 >
 >I'm writing to let you know about an exciting technology which you may not be aware of.  Because the majority of African people have access to a cell phone Google is in the process of launching a large SMS (text message) service for Africa.  Essentially, anyone in Africa would be able to send a SMS query to a specific Google number and they will receive a response SMS containing the result(s) of their query.
