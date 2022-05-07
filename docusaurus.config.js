@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'EKFocus',
+  tagline: 'Eternal Kingdom Focus',
+  url: 'https://ekfocus.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'jag3773', // Usually your GitHub org/user name.
+  projectName: 'ekfocus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Home',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Home',
         src: 'img/logo.svg',
       },
       links: [
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/jag3773/ekfocus',
           label: 'GitHub',
           position: 'right',
         },
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jesse Griffin. All original work licensed as <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC BY-SA 4.0</a>.`,
     },
   },
   presets: [
