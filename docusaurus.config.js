@@ -135,7 +135,7 @@ module.exports = {
             '**/__tests__/**',
           ],
           mdxPageComponent: '@theme/MDXPage',
-          remarkPlugins: [require('remark-math')],
+          remarkPlugins: [],
           rehypePlugins: [],
           beforeDefaultRemarkPlugins: [],
           beforeDefaultRehypePlugins: [],
