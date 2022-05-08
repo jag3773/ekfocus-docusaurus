@@ -15,9 +15,9 @@ module.exports = {
       },
       links: [
         {
-          to: 'pages/doc1',
-          activeBasePath: 'pages',
-          label: 'Pages',
+          to: 'docs/doc1',
+          activeBasePath: 'docs',
+          label: 'Docs',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -32,27 +32,27 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Pages',
+          title: 'Docs',
           items: [
             {
               label: 'Aramaic',
-              to: 'pages/aramaic',
+              to: 'docs/aramaic',
             },
             {
               label: 'Bible',
-              to: 'pages/bible',
+              to: 'docs/bible',
             },
             {
               label: 'Greek',
-              to: 'pages/greek',
+              to: 'docs/greek',
             },
             {
               label: 'Hebrew',
-              to: 'pages/hebrew',
+              to: 'docs/hebrew',
             },
             {
               label: 'Helpful Sites',
-              to: 'pages/helpful-sites',
+              to: 'docs/helpful-sites',
             },
           ],
         },
@@ -98,7 +98,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        pages: {
+        docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
