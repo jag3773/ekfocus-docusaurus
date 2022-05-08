@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Eternal Kingdom Focus',
   url: 'https://ekfocus.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'jag3773', // Usually your GitHub org/user name.
   projectName: 'ekfocus', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'Home',
       logo: {
         alt: 'Home',
-        src: 'img/logo.svg',
+        src: 'img/home-smile-fill.svg',
       },
       links: [
         {
