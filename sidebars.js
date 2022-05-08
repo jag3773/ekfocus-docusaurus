@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Languages: ['greek', 'hebrew'],
-    Biblical Studies: ['bible'],
+    'Languages': ['greek', 'hebrew'],
+    'Biblical Studies': ['bible'],
   },
 };
