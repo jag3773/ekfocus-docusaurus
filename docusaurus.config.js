@@ -15,9 +15,9 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'pages/doc1',
+          activeBasePath: 'pages',
+          label: 'Pages',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -32,15 +32,27 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Pages',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Aramaic',
+              to: 'pages/aramaic',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Bible',
+              to: 'pages/bible',
+            },
+            {
+              label: 'Greek',
+              to: 'pages/greek',
+            },
+            {
+              label: 'Hebrew',
+              to: 'pages/hebrew',
+            },
+            {
+              label: 'Helpful Sites',
+              to: 'pages/helpful-sites',
             },
           ],
         },
@@ -70,7 +82,11 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/jag3773',
+            },
+            {
+              label: 'unfoldingWord',
+              href: 'https://www.unfoldingword.org',
             },
           ],
         },
