@@ -10,14 +10,6 @@ module.exports = {
     colorMode: {
       defaultMode: 'light',
     },
-    //announcementBar: {
-      //id: 'support_us',
-      //content:
-        //'Test Announcement <a target="_blank" rel="noopener noreferrer" href="#">survey</a>',
-      //backgroundColor: '#fafbfc',
-      //textColor: '#091E42',
-      //isCloseable: true,
-    //},
     navbar: {
       title: 'Home',
       logo: {
@@ -123,22 +115,6 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-        pages: {
-          path: 'src/pages',
-          routeBasePath: '',
-          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
-          exclude: [
-            '**/_*.{js,jsx,ts,tsx,md,mdx}',
-            '**/_*/**',
-            '**/*.test.{js,jsx,ts,tsx}',
-            '**/__tests__/**',
-          ],
-          mdxPageComponent: '@theme/MDXPage',
-          remarkPlugins: [],
-          rehypePlugins: [],
-          beforeDefaultRemarkPlugins: [],
-          beforeDefaultRehypePlugins: [],
         },
         sitemap: {
           changefreq: 'weekly',

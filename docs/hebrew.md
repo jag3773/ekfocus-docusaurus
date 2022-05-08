@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: hebrew
 title: Document Number 2
 ---
 
