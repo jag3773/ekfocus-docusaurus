@@ -10,14 +10,14 @@ module.exports = {
     colorMode: {
       defaultMode: 'light',
     },
-    announcementBar: {
-      id: 'support_us',
-      content:
-        'Test Announcement <a target="_blank" rel="noopener noreferrer" href="#">survey</a>',
-      backgroundColor: '#fafbfc',
-      textColor: '#091E42',
-      isCloseable: true,
-    },
+    //announcementBar: {
+      //id: 'support_us',
+      //content:
+        //'Test Announcement <a target="_blank" rel="noopener noreferrer" href="#">survey</a>',
+      //backgroundColor: '#fafbfc',
+      //textColor: '#091E42',
+      //isCloseable: true,
+    //},
     navbar: {
       title: 'Home',
       logo: {
