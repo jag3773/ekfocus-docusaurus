@@ -1,10 +1,24 @@
 ---
 id: greek
-title: Style Guide
-sidebar_label: Style Guide
+title: Greek
+sidebar_label: Greek
 ---
 
 # Greek Anytime Paradigms
+
+This [Greek Anytime Paradigms PDF](/pdf/Greek-Anytime-paradigms.pdf) lists several important Greek paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Greek language study.
+
+![Greek Anytime Paradigms Thumbnail](/img/greek-anytime-paradigms.png)
+
+The anytime paradigms that are included are:
+
+- The alphabet
+- The article
+- πας, πασα, παν
+- Square of Stops
+- Master Verb Endings Chart
+- εἰμι
+- μι Verbs Principle Parts
 
 # Greek Resources
 
