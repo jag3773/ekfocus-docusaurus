@@ -7,6 +7,10 @@
   {
     "source":"/greek/greek-anytime-paradigms",
     "destination":"/docs/greek#greek-anytime-paradigms"
+  },
+  {
+    "source":"/hebrew/hebrew-anytime-paradigms",
+    "destination":"/docs/hebrew#hebrew-anytime-paradigms"
   }
 ]
 }
