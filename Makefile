@@ -4,5 +4,5 @@ stat:
 	git status -s
 commit: stat
 	git commit -a
-	git pull --no-edit origin master
-	git push origin master
+	git pull --no-edit origin main
+	git push origin main
