@@ -1,5 +1,4 @@
-{
-"redirects": [
+{"redirects": [
   {
     "source":"/aramaic",
     "destination":"/blog/2010-02-19 Biblical Aramaic Vocabulary"
@@ -11,6 +10,9 @@
   {
     "source":"/hebrew/hebrew-anytime-paradigms",
     "destination":"/docs/hebrew#hebrew-anytime-paradigms"
+  },
+  {
+    "source":"/hebrew",
+    "destination":"/docs/hebrew#hebrew-anytime-paradigms"
   }
-]
-}
+]}
