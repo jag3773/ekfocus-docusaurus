@@ -18,7 +18,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/greek',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -37,10 +37,6 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Aramaic',
-              to: 'docs/aramaic',
-            },
             {
               label: 'Bible',
               to: 'docs/bible',
