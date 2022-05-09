@@ -8,7 +8,7 @@ sidebar_label: Hebrew
 
 This [Hebrew Anytime Paradigms PDF](/pdf/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
 
-<a href="/pdf/Hebrew-Anytime-Paradigms.pdf"><img alt="Hebrew Anytime Paradigms Thumbnail" src="/img/hebrew-anytime-paradigms.png"></a>
+<a href="/pdf/Hebrew-Anytime-Paradigms.pdf"><img alt="Hebrew Anytime Paradigms Thumbnail" src="/img/hebrew-anytime-paradigms.png" /></a>
 
 The anytime paradigms that are included are:
 

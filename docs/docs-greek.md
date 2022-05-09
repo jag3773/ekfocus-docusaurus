@@ -8,7 +8,7 @@ sidebar_label: Greek
 
 This [Greek Anytime Paradigms PDF](/pdf/Greek-Anytime-Paradigms.pdf) lists several important Greek paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Greek language study.
 
-<a href="/pdf/Greek-Anytime-Paradigms.pdf"><img alt="Greek Anytime Paradigms Thumbnail" src="/img/greek-anytime-paradigms.png"></a>
+<a href="/pdf/Greek-Anytime-Paradigms.pdf"><img alt="Greek Anytime Paradigms Thumbnail" src="/img/greek-anytime-paradigms.png" /></a>
 
 The anytime paradigms that are included are:
 
