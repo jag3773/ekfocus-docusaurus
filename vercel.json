@@ -1,8 +1,12 @@
 {
-   "redirects":[
-      {
-         "source":"/aramaic",
-         "destination":"/blog/2010-02-19 Biblical Aramaic Vocabulary"
-      }
-   ]
+"redirects": [
+  {
+    "source":"/aramaic",
+    "destination":"/blog/2010-02-19 Biblical Aramaic Vocabulary"
+  },
+  {
+    "source":"/greek/greek-anytime-paradigms",
+    "destination":"/docs/greek#greek-anytime-paradigms"
+  }
+]
 }
