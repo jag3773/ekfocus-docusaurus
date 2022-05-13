@@ -4,17 +4,21 @@ title: Hebrew Reading Ease
 sidebar_label: Hebrew Reading Ease
 ---
 
+## Overview
+
 The Hebrew Reading Ease is a scale based on word frequency. The script iterates through the Hebrew Bible and generates a frequency index of each word that occurs. Then, the script works back through the text and generates a difficulty average for each passage. The concept is that the more frequently words occur, the easier it will be to recognize and read them. Thus, a passage with a high score should be easier to read and a passage with a low score should be more difficult. For details, see the [Hebrew Reading Ease Abstract](/pdf/griffinHebrewReadingEase2010.pdf).
-
-Currently, the script will rate all of the OT books, a chapter or a specific verse. You must pass the passage that you would like rated to the script in the form of Gen.1.1. You may also specify Gen, or Gen.1, or ot to rate all books. The script relies on the xml files of the Open Scriptures Hebrew Bible found here: http://github.com/openscriptures/morphhb.
-
-Please note that the script does not take into account that some portions of the Hebrew Bible are actually Aramaic. Further, note that the Hebrew Reading Ease scale is currently being evaluated for its accuracy in describing the difficulty with which one may read a passage of biblical Hebrew.
 
 The repository may be found at http://github.com/jag3773/HebrewReadingEase.
 
-This [flat viewer page](https://flatgithub.com/jag3773/HebrewReadingEase?filename=hre.csv&sha=e470e7d7d72f95fbad77f78ffb9caabb86918b80) shows a book, chapter, verse listing of all of the frequency values that the script outputs.
+This [flat viewer page](https://flatgithub.com/jag3773/HebrewReadingEase?filename=hre.csv) shows a book, chapter, verse listing of all of the frequency values that the script outputs.
 
-# A Comparison of Means
+## Script
+Currently, the script will rate all of the OT books, a chapter or a specific verse. You must pass the passage that you would like rated to the script in the form of Gen.1.1. You may also specify Gen, or Gen.1, or ot to rate all books. The script relies on the xml files of the Open Scriptures Hebrew Bible found here: http://github.com/openscriptures/morphhb.
+
+## Gotchas
+Please note that the script does not take into account that some portions of the Hebrew Bible are actually Aramaic. Further, note that the Hebrew Reading Ease scale is currently being evaluated for its accuracy in describing the difficulty with which one may read a passage of biblical Hebrew.
+
+## A Comparison of Means
 
 The follow chart provides a comparison of the Arithmetic Mean, Harmonic Mean, and Geometric Mean using the verses from Genesis 22 and Genesis 34.
 
