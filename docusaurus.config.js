@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Eternal Kingdom Focus',
   url: 'https://ekfocus.com',
   baseUrl: '/',
-  favicon: 'img/navigation-line.png',
+  favicon: 'img/ekfocus_logo.png',
   organizationName: 'jag3773', // Usually your GitHub org/user name.
   projectName: 'ekfocus', // Usually your repo name.
   themeConfig: {
@@ -14,7 +14,7 @@ module.exports = {
       title: 'Home',
       logo: {
         alt: 'Home',
-        src: 'img/home-smile-line.svg',
+        src: 'img/ekfocus_logo.png',
       },
       links: [
         {
@@ -56,28 +56,15 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
               label: 'Blog',
               to: 'blog',
+            },
+            {
+              label: 'Keybase',
+              href: 'https://keybase.io/jag3773/',
             },
             {
               label: 'GitHub',

@@ -1,4 +1,5 @@
 import React from 'react';
+import { AiOutlineUsergroupAdd } from "react-icons/ai";
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -8,7 +9,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Biblical Languages</>,
+    title: <> א Biblical Languages</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -22,7 +23,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Eternal Kingdom Focus exists to further the Kingdom of God.
+        Make disciples who make disciples in the context of healthy churches.
       </>
     ),
   },
@@ -62,18 +63,7 @@ function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={classnames(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/doc1')}>
-              Get Started
-            </Link>
-          </div>
+          <img src="static/img/ekfocus_wordmark.png" />
         </div>
       </header>
       <main>

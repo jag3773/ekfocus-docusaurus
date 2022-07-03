@@ -1,3 +1,5 @@
+run:
+	yarn run start
 stat:
 	git remote -v
 	git branch
