@@ -9,8 +9,8 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <> א Biblical Languages</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <> Biblical Languages</>,
+    imageUrl: 'img/aleph.svg',
     description: (
       <>
         Check out the <a href="/docs/">biblical languages</a> section to
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/disciples.svg',
     description: (
       <>
         Make disciples who make disciples in the context of healthy churches.
@@ -28,12 +28,11 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Open By Design</>,
+    imageUrl: 'img/unlocked.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Not seeking my own benefit but that of the many, so that they might be saved.
       </>
     ),
   },
