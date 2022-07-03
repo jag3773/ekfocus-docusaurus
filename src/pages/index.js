@@ -62,7 +62,7 @@ function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <img src="static/img/ekfocus_wordmark.png" />
+          <img src="img/ekfocus_wordmark.png" />
         </div>
       </header>
       <main>
