@@ -16,7 +16,7 @@ module.exports = {
         alt: 'Home',
         src: 'img/ekfocus_logo.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/greek',
           activeBasePath: 'docs',
