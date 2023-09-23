@@ -4,7 +4,7 @@ title: Greek
 sidebar_label: Greek
 ---
 
-# Greek Anytime Paradigms
+## Greek Anytime Paradigms
 
 This [Greek Anytime Paradigms PDF](/pdf/Greek-Anytime-Paradigms.pdf) lists several important Greek paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Greek language study.
 
@@ -20,7 +20,7 @@ The anytime paradigms that are included are:
 - εἰμι
 - μι Verbs Principle Parts
 
-# Greek Resources
+## Greek Resources
 
 This section contains some very helpful resources for learning and using biblical (Koine) Greek. I encourage you to check out the sites listed below as well as the subpages.
 

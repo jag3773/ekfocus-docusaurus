@@ -4,7 +4,7 @@ title: Hebrew
 sidebar_label: Hebrew
 ---
 
-# Hebrew Anytime Paradigms
+## Hebrew Anytime Paradigms
 
 This [Hebrew Anytime Paradigms PDF](/pdf/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
 
@@ -19,7 +19,7 @@ The anytime paradigms that are included are:
 - Demonstrative Pronouns
 - Numbers 1 - 10
 
-# Hebrew Resources
+## Hebrew Resources
 
 This section contains resources for learning and using Biblical Hebrew. I encourage you to check out the sites listed below as well as the subpages.
 

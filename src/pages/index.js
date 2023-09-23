@@ -13,8 +13,7 @@ const features = [
     imageUrl: 'img/aleph.svg',
     description: (
       <>
-        Check out the <a href="/docs/">biblical languages</a> section to
-        find helpful resources for studying.
+        Helpful resources for studying <a href="/docs/hebrew">biblical languages</a>.
       </>
     ),
   },
@@ -23,7 +22,7 @@ const features = [
     imageUrl: 'img/disciples.svg',
     description: (
       <>
-        Make disciples who make disciples in the context of healthy churches.
+        How might we <a href="/docs/make-disciples">make disciples</a> who make disciples in the context of healthy churches?
       </>
     ),
   },
